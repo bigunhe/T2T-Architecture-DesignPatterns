@@ -12,7 +12,6 @@ This project contains the implementation of creational design patterns.
 
 
 
-
 ----------------------------------------------**The questions are as follows**----------------------------------------------
 
 **Question 1 – Singleton Pattern (15 min)**
